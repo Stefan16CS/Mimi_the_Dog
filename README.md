@@ -6,12 +6,12 @@ This is my new game that I created
 
 ⚙️ Technologies used
 
-Unity (C# Scripting, prefabs, animator)
-Paint.NET
+- Unity (C# Scripting, prefabs, animator)
+- Paint.NET
 🧩 Functionalities
 
-Modular system for spawning enemies (birds and obstacles)
-Scoring and display of results
-Sound effects when collecting points
-UI for start, end game and restart
-Animations of a dog running and jumping
+- Modular system for spawning enemies (birds and obstacles)
+- Scoring and display of results
+- Sound effects when collecting points
+- UI for start, end game and restart
+- Animations of a dog running and jumping
