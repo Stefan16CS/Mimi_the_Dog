@@ -8,6 +8,7 @@ This is my new game that I created
 
 - Unity (C# Scripting, prefabs, animator)
 - Paint.NET
+
 🧩 Functionalities
 
 - Modular system for spawning enemies (birds and obstacles)
