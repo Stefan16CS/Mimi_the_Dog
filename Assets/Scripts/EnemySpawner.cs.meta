@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea9c8654b2a7dca4ebd41d116716ad0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - groundBirdPrefab: {fileID: 5179210241252784427, guid: 6861422e39aa3934d8c0c4b2d4270fc7, type: 3}
+  - flyingBirdPrefab: {fileID: 5685477996418017275, guid: 66183d4c66c9ebe4280977ddbaf005ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
